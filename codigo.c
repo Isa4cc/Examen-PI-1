@@ -1,4 +1,4 @@
-.//Se desea desarrollar un programa que me permita conocer el ganador de un torneo de box, en los cuales participaran 6 competidores
+// Isaac :) Se desea desarrollar un programa que me permita conocer el ganador de un torneo de box, en los cuales participaran 6 competidores
 //La primera etapa consistira en llaves establecidas
 //La segunda etapa que sera la final sera entre aquellos competidores que allan alcanzado los dos mejhores puntajes.
 //Los puntos se asiganaran de la siguiente manera
